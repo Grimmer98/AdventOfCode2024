@@ -1,7 +1,7 @@
 package main
 
 import (
-	"adventofcode/ejercicio3"
+	"adventofcode/ejercicio4"
 	"fmt"
 )
 
@@ -91,5 +91,7 @@ func main() {
 	//fmt.Println(ejercicio2.Exercise2Part1Solver())
 	//fmt.Println(ejercicio2.Exercise2Part2Solver())
 	//fmt.Println(ejercicio3.Exercise3Part1Solver())
-	fmt.Println(ejercicio3.Exercise3Part2Solver())
+	//fmt.Println(ejercicio3.Exercise3Part2Solver())
+	//fmt.Println(ejercicio4.Exercise4Part1Solver())
+	fmt.Println(ejercicio4.Exercise4Part2Solver())
 }
